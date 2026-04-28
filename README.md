@@ -71,7 +71,34 @@ Oracle SQL Developer is a free IDE that makes it easy to develop and operate Ora
 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗲𝗽𝘀 𝗵𝗲𝗿𝗲:  
 https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC/tree/main/Installation%20%26%20Execution/Installation%20%26%20Execution
 
-𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
+�𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀:
+
+### Database Schema ER Diagram
+```mermaid
+erDiagram
+    CUSTOMERS ||--o{ ORDERS : places
+    CUSTOMERS ||--o{ SHIPMENTS : receives
+    STORES ||--o{ ORDERS : fulfills
+    STORES ||--o{ SHIPMENTS : ships_from
+    STORES ||--o{ INVENTORY : holds
+    PRODUCTS ||--o{ ORDER_ITEMS : included_in
+    PRODUCTS ||--o{ INVENTORY : stocked
+    ORDERS ||--|{ ORDER_ITEMS : contains
+    SHIPMENTS ||--o{ ORDER_ITEMS : delivers
+```
+
+### Project Workflow
+```mermaid
+flowchart TD
+    A[Install Oracle Database 21c] --> B[Create Tables DDL]
+    B --> C[Insert Data DML]
+    C --> D[Data Exploration]
+    D --> E[Data Analysis Part 1-6]
+    E --> F[Data Wrangling Part 7]
+    F --> G[Online Shopping Database Analysis]
+```
+
+�𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
 https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC/tree/main/Codes 
 
 
