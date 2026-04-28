@@ -72,7 +72,7 @@ Oracle SQL Developer is a free IDE that makes it easy to develop and operate Ora
 https://github.com/Ajay026/Projects/tree/main/Installation%20%26%20Execution/Installation%20%26%20Execution  
 
 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
-https://github.com/Ajay026/Projects/tree/main/Codes/momo1606-sql_basic_latest-2ed0938ee08d  
+https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC/tree/main/Codes 
 
 
 ![image](https://user-images.githubusercontent.com/70576003/194710172-df92a709-7c7e-40dd-85a8-c0882d9972e7.png)
