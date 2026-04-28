@@ -69,7 +69,7 @@ Oracle SQL Developer is a free IDE that makes it easy to develop and operate Ora
 ● Perform Data Wrangling activities on the data.
 
 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗲𝗽𝘀 𝗵𝗲𝗿𝗲:  
-Installation & Execution/Installation & Execution/Oracle_Database_Setup_v1.docx 
+https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC/tree/main/Installation%20%26%20Execution/Installation%20%26%20Execution
 
 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
 https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC/tree/main/Codes 
