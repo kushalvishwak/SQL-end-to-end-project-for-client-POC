@@ -71,7 +71,7 @@ Oracle SQL Developer is a free IDE that makes it easy to develop and operate Ora
 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝘀𝘁𝗲𝗽𝘀 𝗵𝗲𝗿𝗲:  
 https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC/tree/main/Installation%20%26%20Execution/Installation%20%26%20Execution
 
-�𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀:
+V𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻𝘀:
 
 ### Database Schema ER Diagram
 ```mermaid
@@ -98,7 +98,7 @@ flowchart TD
     F --> G[Online Shopping Database Analysis]
 ```
 
-�𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
+𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲:  
 https://github.com/kushalvishwak/SQL-end-to-end-project-for-client-POC/tree/main/Codes 
 
 
